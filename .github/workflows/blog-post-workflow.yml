@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+          feed_list: "https://manage.wix.com/dashboard/00eb07aa-b3ab-4c52-888c-936825611b34/blog/posts?referralInfo=sidebar"
