@@ -20,7 +20,7 @@
  ---
 
 ### :technologist: About Me : 
-- :telescope: I’m a citizen scientist, data analyst and a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a citizen scientist.
 
 - :seedling: Exploring Quantum Computing.
 
