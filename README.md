@@ -43,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
- <img src="https://https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   </div>
 
 ---
