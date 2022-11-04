@@ -48,7 +48,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaba-victor&theme=dark&background=000000)](https://git.io/streak-stats)
 
