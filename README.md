@@ -20,9 +20,9 @@
  ---
 
 ### :technologist: About Me : 
-- :telescope: I’m a citizen scientist.
+- :telescope: A data scientist.
 
-- :seedling: Exploring Quantum Computing.
+- :seedling: Exploring Electronics, Physics and Quantum Computing.
 
 - :zap: In my free time, I hung out with friends.
 
