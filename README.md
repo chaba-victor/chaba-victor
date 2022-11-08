@@ -24,7 +24,7 @@
 
 - :seedling: Exploring Electronics, Physics and Quantum Computing.
 
-- :zap: In my free time, I hung out with friends.
+- :zap: In my free time, I void warranties (Hacks hardware).
 
 - :mailbox:Reach out through: chabavictor7@gmail.com
 
