@@ -20,9 +20,9 @@
  ---
 
 ### :technologist: About Me : 
-- :telescope: A data scientist.
+- :telescope: Data Analyst|Machine Learning Engineer.
 
-- :seedling: Exploring Electronics, Physics and Quantum Computing.
+- :seedling: Currently exploring Electronics, Physics and Quantum Computing.
 
 - :zap: I void warranties in my free time.
 
