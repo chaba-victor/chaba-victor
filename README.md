@@ -20,7 +20,7 @@
  ---
 
 ### :technologist: About Me : 
-- :telescope: Data Analyst|Machine Learning Engineer.
+- :telescope: Machine Learning Engineer (MLOps).
 
 - :seedling: Exploring Quantum Computing.
 
