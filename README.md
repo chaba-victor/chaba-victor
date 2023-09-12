@@ -68,5 +68,7 @@
 [Medium](https://medium.com/@chabavictor7)
 
 [Hashnode](https://chaba.hashnode.dev/)
+
+[Dev.to](https://dev.to/chabavictor)
 <!-- BLOG-POST-LIST:END -->
 
