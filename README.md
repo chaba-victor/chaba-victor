@@ -46,8 +46,8 @@
 <h3 align="Center">Tech Stack:</h3>  
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tensorflow.png" alt="tensorflow"  style="height: 3rem"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript"  style="height: 3rem"/> </a>
+<a href="https://www.javascript.org/" target="_blank"> <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript"  style="height: 3rem"/> </a>  
+<a href="https://www.tensorflow.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tensorflow.png" alt="tensorflow"  style="height: 3rem"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="PyTorch"  style="height: 3rem"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="OpenCV"  style="height: 3rem"/> </a>
 <a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
