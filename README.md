@@ -61,8 +61,8 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a>
-<!--<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>-->
+<!--<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a>-->
+<!--<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>->
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>
 <!--<a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>-->
 <!--<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>-->
