@@ -12,9 +12,10 @@
 <br>  Working as freelance MLOps Engineer.
 <br>  Writing data-related articles on <a href="https://medium.com/@chabavictor7">Medium</a>, <a href="https://chaba.hashnode.dev/">Hashnode</a> and <a href="https://dev.to/chabavictor">Dev.to</a> 
 <br>  Coding advanced Python scripts and SQL queries
-<br>  Developing lots of complicated AI and data engineering projects
+<br>  Developing complicated AI and data engineering projects
 <br>  Creating many different types of data pipelines
 <br>  I Void warranties in my free time
+<br>  Physics and liverpool
 </div>
  </p>
 
