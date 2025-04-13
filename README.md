@@ -10,7 +10,7 @@
  <p>
 <div align="center">
 <br>  Working as freelance MLOps Engineer.
-<br>  Writing data-related articles and tutorials on <a href="https://cicada.blog">Cicada</a>, and <a href="https://medium.com/@chabavictor7">Medium</a>
+<br>  Writing data-related articles and tutorials on <!--<a href="https://cicada.blog">Cicada</a>-->, and <a href="https://medium.com/@chabavictor7">Medium</a>
 <br>  I Void warranties in my free time
 <br>  Physics and liverpool
 </div>
